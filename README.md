@@ -1,2 +1,8 @@
-# DashBoard
-This repository contains the codebase for a responsive dashboard website developed with React and Tailwind CSS. The dashboard website is designed to replicate an existing design, providing users with a familiar interface for managing data, visualizing analytics, and accessing key insights.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
